@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Harshak.B</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshak-b&label=Profile%20views&color=00ffe1&style=flat" alt="harshak-b" /> </p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/HariAr2/count.svg?"/>
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshak-b" alt="harshak-b" /></a> </p>
 
