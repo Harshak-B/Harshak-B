@@ -44,7 +44,7 @@ A platform designed to connect **brands and social media influencers** for colla
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+<img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
 ### 🌐 Web Development
