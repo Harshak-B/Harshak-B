@@ -65,12 +65,6 @@ A platform designed to connect **brands and social media influencers** for colla
 <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" />
 </p>
 
-### 🎮 Game Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
