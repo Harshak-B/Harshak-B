@@ -77,9 +77,9 @@ A platform designed to connect **brands and social media influencers** for colla
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshak-b&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=harshak-b&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshak-b&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=harshak-b&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
