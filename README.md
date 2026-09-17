@@ -1,6 +1,6 @@
-<!-- HEADER -->
-
 <div align="center">
+
+<img src="https://wallpapercave.com/wp/wp9637442.gif" width="100%" alt="Developer Animation"/>
 
 # 👋 Hey, I'm Harshak B.
 
@@ -16,10 +16,10 @@ Building things, breaking things, and learning how to build them better.
 
 ## 🧑‍💻 About Me
 
-* 🔭 Currently working on **full-stack web development**
-* 🌱 Learning **React, MySQL, Git, AWS & backend development**
+* 🔭 Currently working on **Full-Stack Web Development**
+* 🌱 Currently learning **React, MySQL, Git, AWS & Backend Development**
 * 🚀 Building **Beam** — a platform connecting brands with influencers
-* 💡 Interested in **software development, gaming & game technology**
+* 💡 Interested in **Software Development, Gaming & Game Technology**
 * 🎮 Part-time gamer, full-time developer
 * 📫 Reach me at **[harshakfreefire@gmail.com](mailto:harshakfreefire@gmail.com)**
 
@@ -30,15 +30,6 @@ Building things, breaking things, and learning how to build them better.
 ### ⚡ Beam — Brand × Influencer Platform
 
 A platform designed to connect **brands and social media influencers** for collaborations and campaigns.
-
-**Current features:**
-
-* 👤 Brand & Influencer profiles
-* 🔎 Influencer discovery
-* 📢 Campaign creation
-* 🤝 Campaign applications
-* 💬 Collaboration workflow
-* 📱 Responsive interface
 
 **Tech Stack**
 
@@ -104,26 +95,12 @@ A platform designed to connect **brands and social media influencers** for colla
 
 ---
 
-## 🎯 What I'm Working Toward
-
-```text
-Frontend        ███████████████░░░░░  React & Modern UI
-Backend         ██████████░░░░░░░░░░  Backend Development
-Database        ██████████░░░░░░░░░░  MySQL
-Cloud           ███████░░░░░░░░░░░░░  AWS
-Problem Solving ███████████░░░░░░░░░  DSA & Debugging
-```
-
----
-
 ## 🎮 Beyond Code
-
-When I'm not coding:
 
 🎮 Gaming
 🎨 Exploring 3D & Game Development
 🧠 Learning new technologies
-💡 Thinking about new application ideas
+💡 Building new application ideas
 
 ---
 
@@ -145,8 +122,4 @@ When I'm not coding:
 
 <div align="center">
 
-### ⚡ *Code. Create. Learn. Repeat.*
-
-⭐ Thanks for visiting my profile!
-
-</div>
+#
