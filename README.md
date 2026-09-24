@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://wallpapercave.com/wp/wp9637442.gif" width="100%" alt="Developer Animation"/>
 
